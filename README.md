@@ -1,5 +1,5 @@
 
-**Carnegie Mellon University**<br/>11-785 Introduction to Deep Learning, 2020f [[syllabus]](https://deeplearning.cs.cmu.edu/F20/index.html)<br/>lecture video review
+> **Carnegie Mellon University**<br/>11-785 Introduction to Deep Learning, 2020f [[syllabus]](https://deeplearning.cs.cmu.edu/F20/index.html)<br/>lecture video review
 
 <br/>
 
