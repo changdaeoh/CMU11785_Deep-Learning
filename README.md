@@ -19,7 +19,7 @@
 | 2021.03.14 | 10 | lec12 : Backpropagation in CNN <br/> lec13 : RNN intro | 오창대 | [Slide1](https://github.com/changdaeoh/CMU11785_Deep-Learning/blob/main/slide/DL001_s10_lec12_backprop_in_CNN.pdf)<br/>[Slide2](https://github.com/changdaeoh/CMU11785_Deep-Learning/blob/main/slide/DL001_s10_lec13_RNN.pdf) |
 | 2021.03.21 | 11 | lec14 : Behavior of Vanilla RNN & LSTM <br/> lec15 : Loss Function for RNN, Sequence prediction | 원희지 | [Slide](https://github.com/changdaeoh/CMU11785_Deep-Learning/blob/main/slide/DL001_s11_lec14_15.pdf) |
 | 2021.04.04 | 12 | lec16 : Speech Recognition 1 | 원희지 | [Slide](https://github.com/changdaeoh/CMU11785_Deep-Learning/blob/main/slide/DL001_s11_lec16.pdf) |
-| 2021.04.11 | 13 | lec17 : Speech Recognition 2 | 오창대 | [Slide](https://github.com/changdaeoh/CMU11785_Deep-Learning/blob/main/slide/DL001_s11_lec17.pdf) |
+| 2021.04.11 | 13 | lec17 : Speech Recognition 2 | 오창대 | [Slide](https://github.com/changdaeoh/CMU11785_Deep-Learning/blob/main/slide/DL001_s13_lec17.pdf) |
 | 2021.05.02 | 14 | lec18 : Neural Machine Translation & Attention | 오창대 | [Slide](https://github.com/changdaeoh/CMU11785_Deep-Learning/blob/main/slide/DL001_s14_lec18_nmt_attention.pdf) |
 | 2021.05.09 | 15 | lec19 : Auto Encoder & Representation Learning<br/> lec21 : Variational Auto Encoder (part1) | 원희지 | [Slide1](https://github.com/changdaeoh/CMU11785_Deep-Learning/blob/main/slide/DL001_s15_lec19.pdf)<br/>[Slide2](https://github.com/changdaeoh/CMU11785_Deep-Learning/blob/main/slide/DL001_s15_lec21.pdf) |
 | 2021.05.16 | 16 | lec22 : Variational Auto Encoder (part2) | 원희지 | [Slide](https://github.com/changdaeoh/CMU11785_Deep-Learning/blob/main/slide/DL001_s16_lec22.pdf) |
